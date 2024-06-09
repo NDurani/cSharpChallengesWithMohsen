@@ -1,0 +1,15 @@
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\bin\Debug\net8.0\ChalengeCodeSignal.exe
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\bin\Debug\net8.0\ChalengeCodeSignal.deps.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\bin\Debug\net8.0\ChalengeCodeSignal.runtimeconfig.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\bin\Debug\net8.0\ChalengeCodeSignal.dll
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\bin\Debug\net8.0\ChalengeCodeSignal.pdb
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.AssemblyInfoInputs.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.AssemblyInfo.cs
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.csproj.CoreCompileInputs.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.sourcelink.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.dll
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\refint\ChalengeCodeSignal.dll
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.pdb
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ChalengeCodeSignal.genruntimeconfig.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\ChalengeCodeSignal\obj\Debug\net8.0\ref\ChalengeCodeSignal.dll
