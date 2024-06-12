@@ -1,0 +1,15 @@
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\bin\Debug\net8.0\new_project.exe
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\bin\Debug\net8.0\new_project.deps.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\bin\Debug\net8.0\new_project.runtimeconfig.json
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\bin\Debug\net8.0\new_project.dll
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\bin\Debug\net8.0\new_project.pdb
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.AssemblyInfoInputs.cache
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.AssemblyInfo.cs
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.csproj.CoreCompileInputs.cache
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.sourcelink.json
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.dll
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\refint\new_project.dll
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.pdb
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\new_project.genruntimeconfig.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\Plural_Sight\new_project\obj\Debug\net8.0\ref\new_project.dll

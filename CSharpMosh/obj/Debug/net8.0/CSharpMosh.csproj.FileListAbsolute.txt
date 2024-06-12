@@ -1,0 +1,15 @@
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\bin\Debug\net8.0\CSharpMosh.exe
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\bin\Debug\net8.0\CSharpMosh.deps.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\bin\Debug\net8.0\CSharpMosh.runtimeconfig.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\bin\Debug\net8.0\CSharpMosh.dll
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\bin\Debug\net8.0\CSharpMosh.pdb
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.AssemblyInfoInputs.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.AssemblyInfo.cs
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.csproj.CoreCompileInputs.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.sourcelink.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.dll
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\refint\CSharpMosh.dll
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.pdb
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\CSharpMosh.genruntimeconfig.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\CSharpMosh\obj\Debug\net8.0\ref\CSharpMosh.dll
