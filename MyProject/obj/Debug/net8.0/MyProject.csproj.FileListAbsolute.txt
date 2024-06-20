@@ -1,0 +1,15 @@
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\bin\Debug\net8.0\MyProject.exe
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\bin\Debug\net8.0\MyProject.deps.json
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\bin\Debug\net8.0\MyProject.dll
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\bin\Debug\net8.0\MyProject.pdb
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.sourcelink.json
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.dll
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+c:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.pdb
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+C:\Users\E\OneDrive\Desktop\workplace\cSharpChallengesWithMohsen\MyProject\obj\Debug\net8.0\ref\MyProject.dll
